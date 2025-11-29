@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729446985504",
+    "project_id": "freelacarga",
+    "storage_bucket": "freelacarga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729446985504:android:286887225022ff96f2b145",
+        "android_client_info": {
+          "package_name": "com.renanbezerra.freela_carga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9yqY0KOtOXhht7L32zPKcqpksjvv7ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
